@@ -1,0 +1,16 @@
+1) install vite(a tool for frontend which has better buid process)
+-->  npm install vite
+
+2)After installation initialize vite
+
+--> npm init vite
+which provides us set of frameworks to select for frotend and set of variants like JS, TS etc
+
+3) go inside project folder 
+--> cd project_dir
+
+4)Install all dependencies
+--> npm install
+
+5)Run the project
+--> npm run dev
